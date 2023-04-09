@@ -11,7 +11,7 @@
     "contact": "+48 784563723",
     "payment": "Pay online",
     "minPrice": "32",
-    "maxPrice": "810"
+    "maxPrice": "400"
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@
     "photoURL":
       "https://cs5.livemaster.ru/storage/65/1a/3d4d18adaa758e0c2771f38ed2xg--aktivnyj-otdyh-i-razvlecheniya-alisa-tenevoj-teatr-tenej-igro.jpg",
     "name": "Alice in Wonderland",
-    "date": "25.03.2023",
+    "date": "20.04.2023",
     "time": "10:00",
     "address": "Krakow, al.Pokoju 6B",
     "contact": "+48 675980786",
@@ -32,7 +32,7 @@
     "category": "For Children",
     "photoURL": "http://tgb2.ru/images/news/2018news/0213_football3.jpg",
     "name": "Master class 'I love football'",
-    "date": "30.03.2023",
+    "date": "19.04.2023",
     "time": "12:00",
     "address": "Krakow, Rynek Glowny",
     "contact": "+48 673425416",
@@ -50,7 +50,7 @@
     "contact": "+48 673567898",
     "payment": "Pay online",
     "minPrice": "28",
-    "maxPrice": "1000"
+    "maxPrice": "400"
   },
   {
     "id": "5",
@@ -58,7 +58,7 @@
     "photoURL":
       "https://ocdn.eu/pulscms-transforms/1/3I9k9kpTURBXy9mYTllZWI1ZDJhZDJkNjRhODNhNThjYWMzNWIxMTZjMi5qcGeTlQMAHs0D6M0CMpMFzQMUzQG8kwmmM2RhOTYzBt4AAaEwBg/.avif",
     "name": "Game program 'Super quiz'",
-    "date": "02.04.2023",
+    "date": "27.04.2023",
     "time": "10:00",
     "address": "Krakow, Donbie, 7",
     "contact": "+48 675483467",
@@ -76,7 +76,7 @@
     "contact": "+48 673567898",
     "payment": "Pay online",
     "minPrice": "32",
-    "maxPrice": "810"
+    "maxPrice": "300"
   },
   {
     "id": "7",
@@ -102,6 +102,56 @@
     "address": "Krakow, Jordan park",
     "contact": "+48 987567456",
     "payment": "Free"
+  },
+  {
+    "id": "9",
+    "category": "Festivals",
+    "photoURL": "https://tengrinews.kz/userdata/news/2020/news_420404/thumb_m/photo_342439.jpeg",
+    "name": "Hair Fair & Beauty Fair Festival 2023",
+    "date": "25.11.2023",
+    "time": "10:00",
+    "address": "Katowice, Centrum Kongresowe",
+    "contact": "+48 947463527",
+    "payment": "Free"
+  },
+  {
+    "id": "10",
+    "category": "For Children",
+    "photoURL": "https://smile-me.ru/images/scienceshowistra.jpg",
+    "name": "Science show",
+    "date": "15.05.2023",
+    "time": "12:00",
+    "address": "Wroclaw, Central Theater",
+    "contact": "+48 684736524",
+    "payment": "Pay online",
+    "minPrice": "20",
+    "maxPrice": "50"
+  },
+  {
+    "id": "11",
+    "category": "Concerts",
+    "photoURL": "https://nypost.com/wp-content/uploads/sites/2/2022/02/sting-77.jpg?resize=1064,709&quality=75&strip=all",
+    "name": "Sting",
+    "date": "20.07.2023",
+    "time": "19:00",
+    "address": "Krakow, Arena",
+    "contact": "+48 873426424",
+    "payment": "Pay online",
+    "minPrice": "80",
+    "maxPrice": "250"
+  },
+  {
+    "id": "12",
+    "category": "Sport",
+    "photoURL": "https://www.sportexpoverona.it/wp-content/uploads/2023/01/LOGO_SPORT-EXPO-2023.png",
+    "name": "Sport expo 2023",
+    "date": "20.05.2023",
+    "time": "09:00",
+    "address": "Poznan Congress Center",
+    "contact": "+48 827323783",
+    "payment": "Pay online",
+    "minPrice": "20",
+    "maxPrice": "50"
   }
 ]
 }
