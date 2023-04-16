@@ -10,5 +10,3 @@ server.use(cors());
 server.use(middlewares);
 server.use(router);
 server.listen(port);
-
-
