@@ -4,7 +4,7 @@ import cors from 'cors';
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-const port = 3000;
+const port = 3001;
 
 server.use(cors({origin: '*'}));
 server.use(middlewares);
